@@ -3,4 +3,4 @@ Bad Banking App
     This has been made in fulfillment of my course requirments with MIT in the MERN Full Stack Devolopment course.
 
 
-AWS BadBank link: https://badbackbucket.s3.amazonaws.com/index.html#/
+AWS BadBank link: http://roger-dissmorebankingapplication.s3-website-us-east-1.amazonaws.com/#/
