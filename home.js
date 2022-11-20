@@ -4,14 +4,14 @@ function Home(){
     const email = ctx.users[0].email;
   
     const greetMessage = "Home Page";
-    const welcomeMessage = "Welcome to the Bank!";
-    const textMessage ="We are here for all of your banking needs. You can move around using the navigation bar.";
+    const welcomeMessage = "Welcome to Fells Wargo!";
+    const textMessage ="We are here with no security so it is easier for people to steal your money!";
     
   
     return (
       <div className="container">
         <Card 
-          bgcolor="light"
+          bgcolor="blue"
           txtcolor="black"
           header={greetMessage}
           title={welcomeMessage}
